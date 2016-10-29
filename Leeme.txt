@@ -1,0 +1,2 @@
+Cuando hagan alguna modificacion hagan comentarios
+dentro del codigo
